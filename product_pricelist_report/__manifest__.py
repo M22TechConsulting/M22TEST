@@ -12,7 +12,7 @@
     'website': "https://m22.mx",
     'category': 'Sales',
     'version': '16.0.1',
-    'depends': ['base','stock','report_xlsx'],
+    'depends': ['base','product','stock','report_xlsx'],
     'data': [
         'reports/product_pricelist_report_xlsx.xml'
     ],
